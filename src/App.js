@@ -24,8 +24,8 @@ import { faLink } from '@fortawesome/free-solid-svg-icons';
 
 // import avt from '../public/avt.jpg';
 
-const bg = require ('../src/bggg.png')
-const haa = require('../src/picture/haa.gif')
+const bg = require ('./bggg.png')
+
 const FB = "https://www.facebook.com/nguyenhuyhoang03?locale=vi_VN";
 const GIT = "https://github.com/Hoang3103";
 const INS = "https://www.instagram.com/hoang_31.03/";
